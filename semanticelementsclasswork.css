@@ -1,0 +1,40 @@
+/*
+* Name Sarah Barrosse-Antle
+* Due Date 2/4/19
+* Semantic Elements Classwork. 
+*/
+
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body atrributes here */
+
+Body {
+     background-color: white;
+    font-family: "arial", "helvetica",sans-serif; 
+    font-size: 12pt; 
+    }
+
+img { width: 250px; height: 200px; float: left
+}
+
+/*body colors */ 
+header {background-color: lavender; text-align: center; text-transform: capitalize;
+} 
+main {background-color: lavenderblush; text-align: justify;}
+footer {background-color: aliceblue; text-align: center;
+}
+
+/* link colors */ 
+a:hover,a:focus { 
+    color:aquamarine;
+    text-decoration: underline;
+}
+a:link {
+    color: pink;
+}
